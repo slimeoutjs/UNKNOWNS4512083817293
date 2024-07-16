@@ -2,7 +2,7 @@
 local whitelist = {
 	["SoloisBlatant"] = true,
 		["23fgthy"] = true,
-		["User3"] = true,
+		["HerSecretts"] = true,
 		["User4"] = true,
 		["User5"] = true,
 	}
