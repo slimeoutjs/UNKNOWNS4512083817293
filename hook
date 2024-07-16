@@ -1,7 +1,7 @@
 -- List of whitelisted player names
 local whitelist = {
 	["SoloisBlatant"] = true,
-		["User2"] = true,
+		["23fgthy"] = true,
 		["User3"] = true,
 		["User4"] = true,
 		["User5"] = true,
