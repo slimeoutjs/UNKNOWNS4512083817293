@@ -1,6 +1,6 @@
 -- List of whitelisted player names
 local whitelist = {
-	["SoloisBlatant"] = true,
+	["SoloisBlatan"] = true,
 		["User2"] = true,
 		["User3"] = true,
 		["User4"] = true,
@@ -375,7 +375,7 @@ local whitelist = {
 					UI["a"]["BackgroundTransparency"] = 1
 					UI["a"]["Size"] = UDim2New(0, 452, 0, 19)
 					UI["a"]["BorderColor3"] = Color3FromRGB(0, 0, 0)
-					UI["a"]["Text"] = [[powered by mandem.productions]]
+					UI["a"]["Text"] = [[powered by Storedhook.xyz]]
 					UI["a"]["Name"] = [[CreditTitle]]
 					UI["a"]["Position"] = UDim2New(0, 96, 0, 428)
 				
